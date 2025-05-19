@@ -2,7 +2,7 @@ def print_large_text(text):
     """
     Prints the given text in large ASCII art characters.
     """
-    # Define large characters (7 lines high)
+    # Define large characters ( 7  lines high)
     large_chars = {
         'K': [
             "K    K",
